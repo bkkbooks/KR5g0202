@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0202/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0202/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清元始變化寶真上經九靈太妙龜山玄籙
+  date: '2015-08-29 02:59:54.508730'
+  source:
+    repository: kanripo
+    path: KR5g0202
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0202_000-ZTDZ.yaml, hash: 'sha256:e0216e54554f4d766382acf3030bc53d87e6f2c2ac6d8311ac26572ea18dbb80'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0202_000-ZTDZ.markers.yaml, hash: 'sha256:ac8f39631701e96f299f95829b0df4db4d76c1fcd630be2287def48d3b775e38'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0202_SJB_000-340177a
+    span:
+    - body
+    - 0
+    - 39316
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:af7dd7418515b23d7d5e2c2611d2b110f3f01b131d71dd0b61ce48bf8be2670e
